@@ -2,6 +2,13 @@ website:
   sidebar:
     contents:
       - index.ipynb
-      - capture_youtube_live.ipynb
-      - demo.ipynb
-      - openai_image_inquiry.ipynb
+      - 00_youtube_live.ipynb
+      - 01_gpt.ipynb
+      - 02_chat_ui.ipynb
+      - 03_gen_fastapi.ipynb
+      - 04_docker_fastapi.ipynb
+      - 05_hook_fastapi.ipynb
+      - 06_mashup.ipynb
+      - 07_appstorelet.ipynb
+      - 90_utils.ipynb
+      - 99_demo.ipynb
